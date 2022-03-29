@@ -1,0 +1,4 @@
+[error] /Users/andreivorontsov/2gis-test-task/project/Dependencies.scala:17:64: recursive lazy value catsEffect needs type
+[error]   lazy val catsEffect = Seq("org.typelevel" %% "cats-effect" % catsEffect)
+[error]                                                                ^
+[error] one error found
